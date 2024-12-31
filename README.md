@@ -3,7 +3,6 @@
 ![Visits Badge](https://badges.pufler.dev/visits/Giatroo/learn-go-with-tests)
 ![Last update](https://img.shields.io/github/last-commit/Giatroo/learn-go-with-tests)
 ![Repo size](https://img.shields.io/github/repo-size/Giatroo/learn-go-with-tests)
-![Number of Lines](https://img.shields.io/tokei/lines/github/Giatroo/learn-go-with-tests)
 ![Language count](https://img.shields.io/github/languages/count/Giatroo/learn-go-with-tests)
 ![Top language](https://img.shields.io/github/languages/top/Giatroo/learn-go-with-tests)
 
